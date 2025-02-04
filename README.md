@@ -17,7 +17,8 @@ My Portfolio
   - <b>Excel Functions</b>
   - https://github.com/lizaatis/Excel-Functions-Lab/tree/main
   <h2>Certifications:</h2>
-    - <b>Excel Functions</b>
+    - <b>These are Certifications I have a chieved so far</b>https://github.com/lizaatis/Certifications
+    
   
 <h2>📺 Popular YouTube Videos</h2>
 
