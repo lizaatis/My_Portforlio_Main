@@ -1,7 +1,7 @@
 # My_Portforlio_Main
 My Portfolio
 
-<h1>Hi, I'm Elizabeth! <br/><a href="https://github.com/elizabethatieno">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/elizabethatieno/">Programmer</a>, <a href="www.youtube.com/@lizatis9381">YouTuber</a></h1>
+<h1>Hi, I'm Elizabeth! <br/><a href="https://github.com/elizabethatieno">Cybersecurity Professional</a>, <a href="https://https://www.linkedin.com/in/elizabeth-atieno-202b49173//">Programmer</a>, <a href="www.youtube.com/@lizatis9381">YouTuber</a></h1>
 
 <h2>IT Lab Projects:</h2>
  <b>Lab Projects For IT Help_desk CNS 6 Months course at Seattle Central College</b>https://github.com/lizaatis/Lab_Projects_CNS_course
@@ -38,7 +38,7 @@ https://github.com/lizaatis/exploring-physical-and-logical-mode-of-network-on-Ci
 
 [youtube]: https://www.youtube.com/c/lizatis9381
 
-[linkedin]: https://linkedin.com/in/elizabethatieno
+[linkedin]: [https://www.linkedin.com/in/elizabeth-atieno-202b49173/]
 
 <!--
 **Elizabeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
